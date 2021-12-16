@@ -9,7 +9,7 @@ Coming soon!
 
 ## Bilsky-Grading model
 An overview of the proposed Bilsky-Grading model.
-<div align=center><img height="300" src="imgs/model.png"></div>
+<div align=center><img height="400" src="imgs/model.png"></div>
 
 ## Environment
 
