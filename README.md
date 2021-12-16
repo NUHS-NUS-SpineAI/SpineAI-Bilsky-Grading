@@ -7,7 +7,7 @@
 
 ## Bilsky-Grading Model
 
-<div align=center><img height="200" src="imgs/model.png"></div>
+<div align=center><img height="600" src="imgs/model.png"></div>
 
 ## Environment
 
