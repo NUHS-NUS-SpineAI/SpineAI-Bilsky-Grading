@@ -5,11 +5,16 @@
 </h1>
 
 
+## Bilsky-Grading Model
+
+<div align=center><img height="200" src="imgs/model.png"></div>
+
 ## Environment
 
 - Python==3.9
 - Pytorch==1.9.1
 - Keras==2.2.2
+
 
 ## :mailbox: Contact
 
