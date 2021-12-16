@@ -4,6 +4,8 @@
   <img src="imgs/spineAI-logo.png" alt="SpineAI-logo" height="150">
 </h1>
 
+## Dataset
+Coming soon!
 
 ## Bilsky-Grading model
 
@@ -20,10 +22,9 @@ bash train.sh
 
 ## Training visualization
 
-```bash
 $ tensorboard --logdir path_to_current_dir/logs
 
-## Results
+## Training visualization
 Internal Test Set
 | Normal | Abnormal | Avg Acc |
 | ----- | ------ | ------ | 
