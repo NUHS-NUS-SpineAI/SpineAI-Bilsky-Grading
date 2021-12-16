@@ -41,16 +41,7 @@ External Test Set
 
 If you find our work useful in your research and would like to cite our Radiology paper, please use the following citation:
 
-```
-@article{hallinan2021deep,
-  title={Deep learning model for automated detection and classification of central canal, lateral recess, and neural foraminal stenosis at lumbar spine MRI},
-  author={Hallinan, James Thomas Patrick Decourcy and Zhu, Lei and Yang, Kaiyuan and Makmur, Andrew and Algazwi, Diyaa Abdul Rauf and Thian, Yee Liang and Lau, Samuel and Choo, Yun Song and Eide, Sterling Ellis and Yap, Qai Ven and others},
-  journal={Radiology},
-  pages={204289},
-  year={2021},
-  publisher={Radiological Society of North America}
-}
-```
+
 
 ## :mailbox: Contact
 
