@@ -5,6 +5,11 @@
 </h1>
 
 
+## Environment
+
+- Python==3.9
+- Pytorch==1.9.1
+- Keras==2.2.2
 
 ## :mailbox: Contact
 
