@@ -24,7 +24,7 @@ bash train.sh
 
 $ tensorboard --logdir path_to_current_dir/logs
 
-## Training visualization
+## Results
 Internal Test Set
 | Normal | Abnormal | Avg Acc |
 | ----- | ------ | ------ | 
