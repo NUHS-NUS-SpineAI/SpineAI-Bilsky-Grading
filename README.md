@@ -5,15 +5,35 @@
 </h1>
 
 
-## Bilsky-Grading Model
+## Bilsky-Grading model
 
-<div align=center><img height="450" src="imgs/model.png"></div>
+<div align=center><img height="400" src="imgs/model.png"></div>
 
 ## Environment
 
 - Python==3.9
 - Pytorch==1.9.1
 - Keras==2.2.2
+
+## Run the code
+bash train.sh
+
+## Training visualization
+
+```bash
+$ tensorboard --logdir path_to_current_dir/logs
+
+## Results
+Internal Test Set
+| Normal | Abnormal | Avg Acc |
+| ----- | ------ | ------ | 
+| 93.58 | 97.62 | 95.6 |
+External Test Set
+
+External Test Set
+| Normal | Abnormal | Avg Acc |
+| ----- | ------ | ------ | 
+| 98.12 | 89.94 | 94.03|
 
 
 ## :mailbox: Contact
