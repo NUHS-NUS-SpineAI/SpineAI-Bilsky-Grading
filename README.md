@@ -39,9 +39,18 @@ External Test Set
 
 ## 🤝 Referencing and Citing SpineAI
 
-If you find our work useful in your research and would like to cite our Radiology paper, please use the following citation:
+If you find our work useful in your research and would like to cite our paper, please use the following citation:
 
-
+```
+@article{hallinan2022deep,
+  title={Deep Learning Model for Classifying Metastatic Epidural Spinal Cord Compression on MRI},
+  author={Hallinan, James Thomas Patrick Decourcy and Zhu, Lei and Zhang, Wenqiao and Lim, Desmond Shi Wei and Baskar, Sangeetha and Low, Xi Zhen and Yeong, Kuan Yuen and Teo, Ee Chin and Kumarakulasinghe, Nesaretnam Barr and Yap, Qai Ven and others},
+  journal={Frontiers in Oncology},
+  pages={1479},
+  year={2022},
+  publisher={Frontiers}
+}
+```
 
 ## :mailbox: Contact
 
